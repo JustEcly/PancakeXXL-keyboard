@@ -520,7 +520,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerber/",
+      "plot": "../Plate and case/PCB dxf/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
