@@ -16,8 +16,8 @@
         "cols": 12
     },
     "matrix_pins": {
-      "cols": ["GP21", "GP16", "GP15", "GP14", "GP13", "GP12", "GP09", "GP08", "GP07", "GP05", "GP04", "GP03"],
-      "rows": ["GP00", "GP01", "GP02", "GP06"]
+        "cols": ["GP12", "GP17", "GP18", "GP19", "GP20", "GP21", "GP22", "GP23", "GP24", "GP07", "GP03", "GP05"],
+        "rows": ["GP06", "GP04", "GP02", "GP25"]
   },
   "processor": "RP2040",
   "usb": {
