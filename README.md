@@ -1,6 +1,6 @@
 # PancakeXXL keyboard
 
-![Static Badge](https://img.shields.io/badge/current_vesrion-1.0?labelColor=green)
+![Static Badge](https://img.shields.io/badge/current_vesrion-1.0-green)
 
 
 This 40% is made in the idea of a little keyboard easy to travel with is little format and is 3d printed case to be lightweight.
