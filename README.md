@@ -1,21 +1,25 @@
-# Pancake keyboard
-Un clavier 40% inspiré par le [Tanuki](https://github.com/SethSenpai/Tanuki), le clavier sera compatible vial pour que tout le monde puisse le customiser comme il le souhaite.
+# PancakeXXL keyboard
 
- ## Layout
+![Static Badge](https://img.shields.io/badge/current_vesrion-1.0?labelColor=green)
 
- Comme dit juste au dessus je me suis inspiré du Tanuki qui a un layout similaire, mais je voulais changer quelque truc qui me déplaisait donc j'ai modifier l'emplacement de la bar espace et rajouter quelque truc comme les accents qui sont un peu plus indispensable en français qu'en anglais.  
 
-![Layout 2x2u](https://github.com/JustEcly/Pancake-keyboard/blob/main/Keyboard%20Layout%20Editor/pancake%202u.png?raw=true)
+This 40% is made in the idea of a little keyboard easy to travel with is little format and is 3d printed case to be lightweight.
+This keyboard is made QMK and work with VIAL to make it customisable by everyone !
 
-Mais il n'y a pas q'un layout le clavier ayant été créer avec une deuxième plate qui permet au gens de passer d'un 2x2u a une spacebar 7u en plate clip-in. 
+## Special thanks
+I made it integrally but I take for inspiration for the layout the [Tanuki](https://github.com/SethSenpai/Tanuki) and get help from the [HLB team](https://github.com/H3lli0n/HLB-Projects) for some aspect of the keyboard (especially thanks to Please to help me with the PCB part and Hellion to help me with the case and firmware problems)
 
-![Layout 7u](https://github.com/JustEcly/Pancake-keyboard/blob/main/Keyboard%20Layout%20Editor/pancake%207u.png?raw=true)
+---
+# Layout
+Like say earlier I took inspiration of the Tanuki for the layout, but modify the last row by making it with a center Fn and not on the side, I also make it compatible with a 7u option.
+To use the 7u layout you gonna need a special plate in the [plate and case directory](/plate_and_case/) who's using clip-in 7u stab (using 7u screw-in stab would have caused overlapping issues with switches) and activate the option on vial in the Layout tab
+ ## Layout 2x2u and 7u
+![Layout 2x2u](/kle/pancake%202u.png)
+![Layout 7u](/kle/pancake%207u.png)
+With the 2x2u you have an hold mod to use the up and down layer, you can customise it if you prefer to don't have it.
 
-Voici donc a quoi ressemblera le keymap du clavier. Il sera également accompagné d'un hold mod pour passer sur les layers secondaire que je dois encore réfléchir pour le 7u
-
+---
 # QMK
+The keyboard is made with a RP2040 MCU from rasbperry pi integrated on the PCB itself. This is a powerful MCU capable of a lot of thing like using QMK and by extension the VIAL application for easy modification of the keyboard.
 
-Le clavier à été conçu pour fonctionner avec le microcontrôleur RP2040 qui est intégrer au pcb si vous passez par les fichiers Gerber, BOM et CPL pour faire votre commande sur le site de votre manufacteur.
-
-Le clavier fonctionnera donc à l'aide de QMK avec la possibilité de le modifier avec VIA et Vial pour que chacun puisse mettre sa disposition comme il le souhaite.  
-
+---
