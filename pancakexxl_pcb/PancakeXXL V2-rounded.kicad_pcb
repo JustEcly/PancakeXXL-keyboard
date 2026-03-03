@@ -20071,7 +20071,7 @@
 		(at 47.577117 85.781727 180)
 		(descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 		(tags "SPST Button Switch")
-		(property "Reference" "SW1"
+		(property "Reference" "Reset"
 			(at 0 3.6 0)
 			(layer "B.SilkS")
 			(uuid "b83cdd06-a216-4ad1-a8c9-9fc2ddf48e69")
@@ -29968,7 +29968,7 @@
 		(at 47.577117 93.331727 180)
 		(descr "ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html")
 		(tags "SPST Button Switch")
-		(property "Reference" "SW2"
+		(property "Reference" "Boot"
 			(at 0 3.6 0)
 			(layer "B.SilkS")
 			(uuid "feaaad85-c0b1-41f8-a093-bc84af188f0b")
