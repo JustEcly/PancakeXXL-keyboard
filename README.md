@@ -1,6 +1,6 @@
 # PancakeXXL keyboard
 
-![VERSION](https://img.shields.io/badge/current_vesrion-1.0-4bd927?style=for-the-badge) ![QMK_VIAL](https://img.shields.io/badge/QMK-VIAL_compatible-3acfa2?style=for-the-badge) ![FORMAT](https://img.shields.io/badge/keyboard_format-40-5d7ad9?style=for-the-badge)
+![VERSION](https://img.shields.io/badge/current_vesrion-1.0-4bd927?style=for-the-badge) ![QMK_VIAL](https://img.shields.io/badge/QMK-VIAL_compatible-3acfa2?style=for-the-badge&logo=qmk) ![FORMAT](https://img.shields.io/badge/keyboard_format-40-5d7ad9?style=for-the-badge)
 
 This 40% is made in the idea of a little keyboard easy to travel with is little format and is 3d printed case to be lightweight.
 This keyboard is made QMK and work with VIAL to make it customisable by everyone ! 
@@ -25,5 +25,6 @@ The keyboard is made with a RP2040 MCU from rasbperry pi integrated on the PCB i
 # How to install the firmware
 To install the firmware, you just need the uf2 files you can find in the [realease](https://github.com/JustEcly/PancakeXXL-keyboard/releases) or in the firmawre folder in the "[production_files](/production_files/firmware/)"
 After downloading it, you need to connect the keyboard to your computer and slide the uf2 files in the directory that just open
+
 ![firmawre_video](/img/frimware_video.gif)
 Good job ! You now have a functionnal PCB & keyboard 👍
