@@ -15,6 +15,7 @@ To use the 7u layout you gonna need a special plate in the [plate and case direc
  ## Layout 2x2u and 7u
 ![Layout 2x2u](/kle/pancake%202u.png)
 ![Layout 7u](/kle/pancake%207u.png)
+
 With the 2x2u you have an hold mod to use the up and down layer, you can customise it if you prefer to don't have it.
 
 ---
